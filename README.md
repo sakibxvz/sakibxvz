@@ -38,24 +38,31 @@ width="300"
 | **Other Interests**         | Web3, Deep Learning                                      | Node Internal Architechture, Linux System | Blockchain, Web3                                                             |
 
 <!-- ============================
-     GITHUB STATS & MOST USED LANGUAGES (SIDE‑BY‑SIDE)
+     GITHUB STATS & LANGUAGES (Responsive)
 ============================ -->
-<a href="https://github.com/sakibxvz">
-  <img
-    height="200"
-    align="center"
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sakibxvz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    alt="Sakib’s GitHub Stats"
-  />
-</a>
-<a href="https://github.com/sakibxvz">
-  <img
-    height="200"
-    align="center"
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=sakibxvz&layout=compact&langs_count=8&card_width=320&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    alt="Most Used Languages"
-  />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/sakibxvz">
+        <img
+          src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sakibxvz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+          alt="Sakib’s GitHub Stats"
+          height="200"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/sakibxvz">
+        <img
+          src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=sakibxvz&layout=compact&langs_count=8&card_width=320&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+          alt="Most Used Languages"
+          height="200"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br clear="both"/>
 
