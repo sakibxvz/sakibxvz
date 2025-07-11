@@ -5,7 +5,7 @@
 
 
 Hi, Im **An Nazmus Sakib** (you can call me **Sakib**), a Full Stack Developer.  Currently, Im working as Software Engineer 🙍🏽‍♂️ at [Consortium Analytics](https://consortiumanalytics.eu/)  
-Freelancer 👨🏽‍💻 on [Upwork](https://www.upwork.com/)  
+Freelancer 👨🏽‍💻 on [Upwork](https://www.upwork.com/sakibxvz)  
 
 <!-- Static “fake” profile‑views badge -->
 ![PROFILE VIEWS](https://img.shields.io/static/v1?label=PROFILE%20VIEWS&message=1539&color=blueviolet&style=for-the-badge)
@@ -28,9 +28,9 @@ Freelancer 👨🏽‍💻 on [Upwork](https://www.upwork.com/)
 
 | Specification                  | Proficient                                                                                                              | Learning                                                                                              | Future Interests                                                        |
 |--------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------|
-| **Languages (programming)**    | TypeScript, Python                                                   | Rust, C++, Java, C#                                      | Go, Zig, C                                                 |
-| **Frameworks / Platforms**     | Node.js, Nest.js, Next.js, React, FastAPI, Flask, Django, Docker    | Kubernetes, AWS, Google Cloud, Azure, Cargo, Bun         | AI, TensorFlow, Flutter, Machine Learning, Deep Learning, Big Data, Bigtable |
-| **Other Interests**            | Web3, Deep Learning                                                  | Cyber Security, Game Development, Blockchain              | Digital Privacy, Web3                                      |
+| **Languages (programming)**    | TypeScript, Python                                                   | Go                                 | Go, Rust, Solidity                                                 |
+| **Frameworks / Platforms**     | Node.js, Nest.js, Next.js, React, FastAPI, Flask,  Docker    | Kubernetes, AWS, RAG, N8N        | AI, TensorFlow, Flutter, Machine Learning, Deep Learning, Big Data, Bigtable |
+| **Other Interests**            | Web3, Deep Learning                                                  | Node Internal Architechture, Linux System              | Blockchain, Web3                                      |
 
 
 <!-- ============================
