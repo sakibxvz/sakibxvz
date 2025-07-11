@@ -15,7 +15,8 @@ Freelancer 👨🏽‍💻 on [Upwork](https://www.upwork.com/sakibxvz)
   align="right"
   alt="GIF"
   src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
-  style="margin: 0 0 1em 1em;"
+  hspace="20"
+  vspace="10"
 />
 
 **Talking about Personal Stuffs:**
