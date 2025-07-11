@@ -11,7 +11,12 @@ Freelancer 👨🏽‍💻 on [Upwork](https://www.upwork.com/sakibxvz)
 ![PROFILE VIEWS](https://img.shields.io/static/v1?label=PROFILE%20VIEWS&message=1539&color=blueviolet&style=for-the-badge)
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img
+  align="right"
+  alt="GIF"
+  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
+  style="margin: 0 0 1em 1em;"
+/>
 
 **Talking about Personal Stuffs:**
 
