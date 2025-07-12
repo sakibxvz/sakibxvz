@@ -7,9 +7,18 @@
 Hi, Im **An Nazmus Sakib** (you can call me **Sakib**), a Full Stack Developer. Currently, Im working as Software Engineer 🙍🏽‍♂️ at [Consortium Analytics](https://consortiumanalytics.eu/)  
 Freelancer 👨🏽‍💻 on [Upwork](https://www.upwork.com/sakibxvz)
 
-<!-- Static “fake” profile‑views badge -->
 
-![PROFILE VIEWS](https://img.shields.io/static/v1?label=PROFILE%20VIEWS&message=1539&color=blueviolet&style=for-the-badge)
+<p align="left">
+    <!-- Real profile views -->
+  <img src="https://komarev.com/ghpvc/?username=sakibxvz&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://linkedin.com/in/sakibxvz">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=@sakibxvz&color=blueviolet&style=for-the-badge" />
+  </a>
+  <a href="https://sakibdev.vercel.app/">
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=sakibdev.vercel.app&color=blueviolet&style=for-the-badge" />
+  </a>
+</p>
+
 
 <img
 align="right"
@@ -33,7 +42,7 @@ width="300"
 
 | Specification               | Proficient                                               | Learning                                  | Future Interests                                                             |
 | --------------------------- | -------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- |
-| **Languages (programming)** | TypeScript, Python                                       | Go                                        | Go, Rust, Solidity                                                           |
+| **Languages (programming)** | TypeScript, Python                                       | Go                                        |  Rust, Solidity                                                           |
 | **Frameworks / Platforms**  | Node.js, Nest.js, Next.js, React, FastAPI, Flask, Docker | Kubernetes, AWS, RAG, N8N                 | AI, TensorFlow, Flutter, Machine Learning, Deep Learning, Big Data, Bigtable |
 | **Other Interests**         | Web3, Deep Learning                                      | Node Internal Architechture, Linux System | Blockchain, Web3                                                             |
 
@@ -73,4 +82,4 @@ width="300"
 ---
 
 > _“The magic you’re looking for is in the work you’re avoiding.”_
-> — **An Nazmus Sakib**
+> — **Chris Williamson**
