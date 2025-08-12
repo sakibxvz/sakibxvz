@@ -5,7 +5,6 @@
 [![Header](/img/banner.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Hi, Im **An Nazmus Sakib** (you can call me **Sakib**), a Full Stack Developer. Currently, Im working as Software Engineer 🙍🏽‍♂️ at [Consortium Analytics](https://consortiumanalytics.eu/)  
-Freelancer 👨🏽‍💻 on [Upwork](https://www.upwork.com/sakibxvz)
 
 
 <p align="left">
